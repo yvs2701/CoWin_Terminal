@@ -9,6 +9,9 @@ the available slots ! CoWin_Terminal will handle it all.
 - Faster than searching in browsers
 - Low end PCs can benefit a lot from this lightweight app
 
+## Execution
+Simply download and install the app and naviagte within the *Cowin_Terminal* folder and execute the **main.py** file, to get the app running.
+
 ## Installation
 The app's installation process is quite easy. Simply clone this github repo from your terminal or press download as zip, 
 and then unzip the downloaded folder to the directory of your choice.
