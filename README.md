@@ -11,6 +11,9 @@ the available slots ! CoWin_Terminal will handle it all.
 
 ## Execution
 Simply download and install the app and naviagte within the *Cowin_Terminal* folder and execute the **main.py** file, to get the app running.
+At any point you feel to tweak the filters or setting you can press **Ctrl + C** in your terminal and restart the app, and you will get results loaded back again blazing fast !!! 
+You may also refresh the results without changing the configurations by pressing any key in the running terminal. To cancel auto-refreshing and further searching
+you can enter 'n' or 'N' character.
 
 ## Installation
 The app's installation process is quite easy. Simply clone this github repo from your terminal or press download as zip, 
@@ -47,7 +50,7 @@ then follow the same steps as shown here.
     ```
 
 ## Gallery
-![Demo](https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/CoWin%20Terminal.gif)
+![Demo](https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/CoWin%20Demo.gif)
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu.png">
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu2.png">
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_select_state.png">
