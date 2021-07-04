@@ -1,5 +1,7 @@
 # CoWin_Terminal
 Find vaccination slots right inside your terminal !!!
+Use CoWin_Terminal to get notified about when the vaccination slots are available near you ! Never waste time in your browser and never miss
+the available slots ! CoWin_Terminal will handle it all.
 
 # Functionalities
 - Search slots by state+district/pin
@@ -42,6 +44,7 @@ then follow the same steps as shown here.
     ```
 
 ## Gallery
+![Demo](https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/CoWin%20Terminal.gif)
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu.png">
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu2.png">
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_select_state.png">
