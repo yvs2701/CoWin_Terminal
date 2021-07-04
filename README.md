@@ -47,7 +47,7 @@ then follow the same steps as shown here.
     ```
 
 ## Gallery
-![Demo](https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/CoWin%20Terminal.gif)
+![Demo](https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/CoWin%20Demo.gif)
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu.png">
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu2.png">
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_select_state.png">
